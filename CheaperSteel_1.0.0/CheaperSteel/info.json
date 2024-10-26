@@ -1,0 +1,10 @@
+{
+  "name": "CheaperSteel",
+  "version": "1.0.0",
+  "title": "Cheaper Steel",
+  "author": "ProductionExpert",
+  "factorio_version": "2.0",
+  "homepage": "https://github.com/ProductionEXP/Factorio-Mods",
+  "dependencies": ["base >= 1.1.0"],
+  "description": "This mod reduces the cost (and crafting time) of steel to make it so it is 1:1 with iron plates"
+}
